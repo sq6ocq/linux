@@ -12,3 +12,4 @@
 
 Zrób takiego grepa w jakimś projekcie
 `grep -rni dupa *`
+Hello Coders School
